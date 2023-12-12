@@ -12,10 +12,5 @@ _Jul 2023 - Present_
 _PT Indonesia Indicator Bintaro, South Tangerang_  
 _Aug 2021 - Nov 2023_
 
-## Research and Publications
-
-- Water Production Prediction using Neural Networks and Particle Swarm Optimization.
-- Image Processing for Freshness Detection in Fish using CNN.
-
 Let's connect and explore the AI universe together! 🚀
 
